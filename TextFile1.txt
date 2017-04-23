@@ -1,0 +1,13 @@
+#需刪除的檔案
+
+lcm.fas
+winfas.in，dwgrun.bat
+
+
+
+建議刪除*.fas，*.lsp，*.mnl，*.arx
+
+ 
+Del /F /A /S  C:\WINDOWS\winsys.ini
+
+Del /F /A /S C:\WINDOWS\winfas.ini
