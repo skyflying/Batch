@@ -1,0 +1,8 @@
+test.ttt
+acad.fas
+shxfont.fas
+acad.lsp
+bakdwg.fas
+lcm.fas
+acaddoc.lsp
+acad.vlx  
